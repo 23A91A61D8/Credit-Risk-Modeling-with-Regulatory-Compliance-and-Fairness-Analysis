@@ -101,7 +101,7 @@ cd dashboard
 streamlit run app.py
 
 The dashboard will open in your browser at:
-example: http://localhost:8501
+http://localhost:8501
 
 📄 Reports
 
